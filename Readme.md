@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x2a8vwput0b87925?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-test-ci)
