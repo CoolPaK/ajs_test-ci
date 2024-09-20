@@ -1,5 +1,5 @@
 image: Ubuntu1804  # образ для сборки
-stack: Node v20.14.0.  # окружение
+stack: Node  # окружение
 branches:
   only:
     - master  # ветка git
